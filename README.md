@@ -1,5 +1,4 @@
 # -Go-Developer-Health-Data-London-1730
-# Go Developer – Health Data – London-1730
 
 # Stack: 
 Go, Microservices, AWS, Zookeeper, Kafka, DevOps, Docker, Kubernetes 
